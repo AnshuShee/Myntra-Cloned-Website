@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # 🛍️ Myntra Clone (Frontend)
 
 A responsive **Myntra website clone** built using **HTML** and **CSS**.  
@@ -60,10 +60,8 @@ cd myntra-clone
 
 ## 📸 Preview
 
-_Add a screenshot of your project here_
-
 \`\`\`
-![Myntra Clone Screenshot](./assets/images/preview.png)
+![Myntra Clone Screenshot](https://res.cloudinary.com/dhnczdpqj/image/upload/v1775550017/Screenshot_2026-04-07_134808_kuhxfa.png)
 \`\`\`
 
 ---
